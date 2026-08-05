@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator",
+  "description": "Professional scientific calculator web app with Express backend, support for advanced math operations, graphing, unit conversions, programmer mode, and calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
