@@ -8,7 +8,6 @@
 
 **MathEngine** is an advanced, high-precision scientific computing and engineering suite built for web browsers. Engineered with React 18, TypeScript, MathJS AST parsing, HTML5 Canvas 2D, and BigInt logic, MathEngine delivers zero-eval numerical accuracy across 5 distinct specialized computing environments in a sleek, responsive dark theme.
 
-
 ## ⚡ Features Overview
 
 ### 1. 📐 Scientific & Calculus Engine
