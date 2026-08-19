@@ -4,7 +4,7 @@
 [![React](https://img.shields.io/badge/React-18.2-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) 
-[![License](https://img.shields.io/badge/License-MIT-emerald.svg?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-emerald.svg?style=for-the-badge)](LICENSE) 
 
 **MathEngine** is an advanced, high-precision scientific computing and engineering suite built for web browsers. Engineered with React 18, TypeScript, MathJS AST parsing, HTML5 Canvas 2D, and BigInt logic, MathEngine delivers zero-eval numerical accuracy across 5 distinct specialized computing environments in a sleek, responsive dark theme. 
 
