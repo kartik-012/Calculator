@@ -23,7 +23,7 @@
 * **Multi-Function Simultaneous Plotting**: Render up to 4 concurrent mathematical curves with distinct color spectrums.
 * **Live Derivative Tangent Tracing**: Displays real-time tangent line vector $y = f'(x_0)(x - x_0) + f(x_0)$ and cursor coordinates $x, y$.
 * **Viewport Navigation**: Smooth panning, zooming (+/-), coordinate origin reset, and grid alignment.
-
+ 
 ### 3. 💻 64-Bit Programmer Calculator
 * **Interactive Bit Grid**: Clickable 64-bit grid (Bits 0–63) allowing direct toggle manipulation of binary bits.
 * **Synchronized Radix Conversion**: Instantaneous conversion across Hexadecimal (**HEX**), Signed/Unsigned Decimal (**DEC**), Octal (**OCT**), and Binary (**BIN**).
